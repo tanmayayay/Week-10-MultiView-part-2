@@ -17,7 +17,7 @@ X Axis = culmen_length_mm
 </li>
     <li>
         (size of the circle - radius) to be flipper_length_mm
-        </li
+    </li>
 <li>
 Color scale it by the island column.
 </li>
