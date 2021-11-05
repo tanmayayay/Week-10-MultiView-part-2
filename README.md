@@ -31,5 +31,5 @@ Use your creativity and add another data  manipulation method. You can use range
 </li>
 </ol>
 
-<img src="./images/Example4.png"/>
+<img src="./images/Example4.png" width=450px/>
 
