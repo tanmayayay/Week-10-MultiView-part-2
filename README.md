@@ -25,7 +25,7 @@ X Axis = culmen_length_mm
 Color scale it by the island column.
 </li>
 <li>
-Use your creativity and add another data  manipulation method. You can use range sliders, buttons, interactive legends, brushs (d3.brush or d3.brushX)
+Use your creativity and add another data manipulation method. You can use range sliders, buttons, interactive legends, brushes (d3.brush or d3.brushX)
 </li>
 </ul>
 </li>
