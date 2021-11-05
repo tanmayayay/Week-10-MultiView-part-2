@@ -7,6 +7,9 @@
     
     
 <ul>
+    <li>
+        Add legends to it.
+    </li>
 <li>
     One of species only.
 <il>
