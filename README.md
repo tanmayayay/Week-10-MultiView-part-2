@@ -1,20 +1,23 @@
 # Week 10 
 ## Jointplot Exercise
 <ol>
-<li>
-Make a new HTML file and add 3 SVG elements to it
-</li>
-<li>Load the "data/palmer_penguin_species.tsv"
-</li>
+<li>Make a new HTML file and add 3 SVG elements to it</li>
+<li>Load the "data/palmer_penguin_species.tsv"</li>
 <li>Use Example 4 (scatter_plot) and add 3 jointplots such that each plot represents:
-One of species only.
+    
+    
 <ul>
+<li>
+    One of species only.
 <il>
-X Axis = culmen_length_mm, 
+X Axis = culmen_length_mm
 </il>
 <li>
-    Y Axis = culmen_depth_mm	and (size of the circle - radius) to be flipper_length_mm<br>
+    Y Axis = culmen_depth_mm
 </li>
+    <li>
+        (size of the circle - radius) to be flipper_length_mm
+        </li
 <li>
 Color scale it by the island column.
 </li>
