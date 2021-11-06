@@ -12,9 +12,10 @@
     </li>
 <li>
     each plot show one of the species only
-<il>
+    </li>
+<li>
 X Axis = culmen_length_mm
-</il>
+</lil>
 <li>
     Y Axis = culmen_depth_mm
 </li>
