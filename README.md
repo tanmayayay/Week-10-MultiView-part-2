@@ -8,10 +8,10 @@
     
 <ul>
     <li>
-        Add legends to it.
+        Add legends (islands)
     </li>
 <li>
-    One of species only.
+    each plot show one of the species only
 <il>
 X Axis = culmen_length_mm
 </il>
