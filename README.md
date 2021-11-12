@@ -1,7 +1,7 @@
 # Week 10 
 ## Jointplot Exercise
 <ol>
-<li>Make a new HTML file and add 3 SVG elements to it</li>
+<li>Make a new HTML file for each plot</li>
 <li>Load the "data/palmer_penguin_species.tsv"</li>
 <li>Use Example 4 (scatter_plot) and add 3 jointplots:
     
